@@ -17,6 +17,7 @@
 <img align="left" alt="Sass" width="26px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 <img align="left" alt="React" width="26px" src="https://www.svgrepo.com/show/373590/excel2.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/python-visualization/folium/blob/main/docs/_static/folium_logo.jpg?raw=true" />
 
 
 <br />
