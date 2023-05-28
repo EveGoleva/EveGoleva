@@ -1,17 +1,17 @@
-### Hi there, I'm Eve 👋
+### Привет! Я Евгения / Hi there, I'm Eve 👋
 
-## I'm a newby Data Analyst and a polygloth!
-- 🐱‍🏍 I'm currently dreaming of starting to work as a Data Analyst!
-- 🐱‍👤 I've got more than 12 years of Import practice, oh my!
-- 😎 I've got English level C1, Chinese HSK3, Spanish A2 and it's improving! Native - Russian 📔📘📕
+## Я недавно в Аналитике данных, а еще люблю изучать иностранные языки! / I'm a newby Data Analyst and a polygloth!
+- 🐱‍🏍 Сейчас моя цель - начать карьеру в Аналитике данных / I'm currently dreaming of starting to work as a Data Analyst!
+- 🐱‍👤 Более 12 лет я работала в сфере импорта / I've got more than 12 years of Import practice, oh my!
+- 😎 Владею английским на уровне C1, сдала HSK3 по китайскому (средний уровень владения), недавно начала изучать испанский / I've got English level C1, Chinese HSK3, Spanish A2 and it's improving! Native - Russian 📔📘📕
 
-### Connect with me:
+### Со мной можно связаться через Telegram / Connect with me:
 [<img align="left" alt="eveblackeve | Telegram" width="22px" src="https://www.svgrepo.com/show/349527/telegram.svg" />][telegram]
 
 
 <br />
 
-### Languages and Tools:
+### Инструменты и языки программирования, которыми я владею / Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/376344/python.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" />
 <img align="left" alt="Sass" width="26px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
